@@ -87,7 +87,6 @@ Expected: Script should warn about missing search string.
 - **`-l` (only filenames with matches)**:  
   If any match is found, just print the filename once and exit the loop early.
 
-> Overall, adding these would require restructuring the script to **separate matching logic and output logic more cleanly** into different functions.
 
 ---
 
